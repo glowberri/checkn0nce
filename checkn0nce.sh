@@ -40,7 +40,7 @@ step() {
 print_help() {
     cat << EOF
 Usage: $0 [Options] [ subcommand | iOS version ]
-iOS 12.0-16.3 beta nonce setting tool for checkm8 devices
+iOS 12.0-17.0 beta nonce setting tool for checkm8 devices
 Options:
     --help              Print this help
     --generator         Set the nonce generator of the device
