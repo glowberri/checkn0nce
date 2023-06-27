@@ -17,7 +17,6 @@ It boots the device with multiple patches required. On first run, it'll boot int
 
 # Prerequisites
 - A checkm8 vulnerable iOS device on iOS 12.0-17.0 beta (A8-A11)
-  - The device must be on iOS 15.0-17.0 beta
 - Linux or macOS computer
 
 # How to use?
