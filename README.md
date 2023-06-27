@@ -2,7 +2,7 @@
     <img src="https://avatars.githubusercontent.com/u/114239186?s=100&v=4" alt="palera1n logo">
     <p>checkn0nce</p>
 </h1>
-<h3 align="center">An iOS 12.0-16.3 beta nonce setting tool for checkm8 devices.</h3>
+<h3 align="center">An iOS 12.0-17.0 beta nonce setting tool for checkm8 devices.</h3>
 <p align="center">
     <strong><a href="CHANGELOG.md">Change Log</a></strong>
 </p>
